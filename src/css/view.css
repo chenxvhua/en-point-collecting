@@ -1,0 +1,33 @@
+.segment-title {
+    font-size: 18px;
+    padding: 10px;
+    background: #eef1f6;
+    border-radius: 5px;
+    margin: 10px 0px;
+}
+
+.segment-content {
+    font-size: 16px;
+    font-family:sans-serif;
+    border-radius: 5px;
+    padding: 10px;
+    border:1px solid #CCE8CF;
+    box-shadow: 1px 1px 1px 1px #CCE8CF;
+    margin: 5px 0px;
+    white-space: pre-line;
+}
+.keep-whitespace {
+    white-space: pre;
+}
+.red {
+    color:red;
+}
+.summary {
+    font-size: 16px;
+    font-family:sans-serif;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 5px 0px;
+    white-space: pre;
+    background-color: #eef1f6;
+}
