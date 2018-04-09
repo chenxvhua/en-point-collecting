@@ -12,7 +12,7 @@
         <div class="segment-wraper"><h1 class="segment-title"></h1><div class="segment-content"></div></div>
         <div class="segment-wraper"><h1 class="segment-title"></h1><div class="segment-content"></div></div>
 
-        <div class="segment-wraper"><h1>本节2总结:</h1><div class="summary"></div></div>
+        <div class="segment-wraper"><h1>本节总结:</h1><div class="summary"></div></div>
 
     </div>
 </template>
