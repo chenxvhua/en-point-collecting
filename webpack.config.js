@@ -20,7 +20,7 @@ var originalConfig = {
         open: true,
         openPage: '#/index',
         compress: true,
-        port: 9003,
+        port: 9005,
         useLocalIp: true,
         host: "0.0.0.0",
         historyApiFallback:true,
